@@ -1,4 +1,13 @@
-.history
+# package directories
+node_modules
+jspm_packages
 
-LICENSE
-README.md
+# Serverless directories
+.serverless
+
+##
+.idea
+.idea/
+
+#local history
+.history
