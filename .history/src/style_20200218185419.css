@@ -91,7 +91,7 @@ form input {
   background-color: transparent;
 }
 
-form input::placeholder {
+.form::placeholder {
   color: white;
 }
 
